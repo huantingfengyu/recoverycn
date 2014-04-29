@@ -1,6 +1,7 @@
    cwm_bootable_recovery_cn
 ==============================
-修改作者：xuefy(大星星)@安智ATX团队
+原作者：xuefy(大星星)@安智ATX团队
+适配：ZJL@安智ATX团队 机型：C8813Q
 <br /><br /><br />当BoardConfig.mk中定义了recovery的字体且为中文字体时，自动编译为中文版，否则编译为英文版<br />
 例如：
 
